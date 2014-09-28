@@ -9,7 +9,7 @@ Markdown Playground
 
 ![Before](http://i.imgur.com/DHQ9Qfw.png)  
 
-![Imgur](http://i.imgur.com/6267mn7)
+![After](http://i.imgur.com/6267mn7.png)
 
 Sample Markdown Cheat Sheet
 =========================== 
